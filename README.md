@@ -1,7 +1,8 @@
 # [GatsbyJS Highlights](https://appseed.us/apps/gatsbyjs/gatsby-html5up-highlights)
 
 Open-source app built with GatsbyJS on top of HTML5Up Highlights design. 
-**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-highlights) project.**
+
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
 
 <br />
 
